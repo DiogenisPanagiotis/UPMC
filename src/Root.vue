@@ -1,7 +1,7 @@
 <template>
     <div class='container'>
       <div class="row">
-        <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
           <br>
             <div class='head'>
               <!-- <img class='wyng' height='20' width='70' src="https://image.ibb.co/bxK4Dv/wyng_logo_white.png" alt="wyng_logo_white" border="0"> -->
@@ -15,7 +15,7 @@
             </div> -->
             <!-- People -->
             <div class="row">
-              <div class="col-sm-12 col-md-12 thumb">
+              <div class="col-xs-12 col-xs-12 thumb">
                 <div class="thumbnail">
                   <a href='http://www.upmc.com'>
                      <img class='community' src="https://image.ibb.co/m53siv/UPMC.jpg" alt="UPMC" border="0">
