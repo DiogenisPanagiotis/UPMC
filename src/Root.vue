@@ -301,7 +301,7 @@
 
           <div class="well well-lg">
             <blockquote>
-              <h3><i>"The environment our patients are cared for in is as important to use as the care they receive."</i></h3> </br>
+              <h3><i>"The environment our patients are cared for in is as important to us as the care they receive."</i></h3> </br>
               <footer><b>James Schmitt, Manager, Interior Design Planning</b></footer>
             </blockquote>
           </div>
