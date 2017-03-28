@@ -294,8 +294,8 @@
             <ol class="breadcrumb">
               <li><a href="https://myupmc.upmc.com/">MyUPMC</a></li>
               <li><a href="http://findadoc.upmc.com/FindADocSearch.aspx">Find A Doctor</a></li>
-              <li><a href="https://http://careers.upmc.com/">Careers</a></li>
-              <li><a href="https://enterprises.upmc.com">Enterprises</a></li>
+              <li><a href="http://careers.upmc.com/">Careers</a></li>
+              <li><a href="http://enterprises.upmc.com">Enterprises</a></li>
             </ol>
           </div>
 
